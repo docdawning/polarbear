@@ -3,3 +3,6 @@ Here's my little repo for my "PolarBear" Delta Printer. This is totally a "BigDe
 
 My original STL files came from here: https://github.com/justinledwards/BigDelta
 I edited them using Autodesk Meshmixer.
+
+## Screenshot: Example Idler Vertex
+<img src="http://www.dawning.ca/wp-content/uploads/2015/12/Screen-Shot-2015-12-23-at-4.03.55-PM.png" width="95%" />
